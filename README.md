@@ -22,7 +22,7 @@ Se você digitar algo que não seja um número, o programa avisa e volta para o 
 3. No terminal, dentro da pasta do projeto, execute:
 
 ```bash
-python nome_do_arquivo.py
+python age.18.py
 ```
 
 (troque `nome_do_arquivo.py` pelo nome real do seu arquivo)
